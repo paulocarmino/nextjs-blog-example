@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Desenvolvedor Javascript. Evangelizador de Vue nas horas vagas e
-          padawan de React Native.]
+          padawan de React Native.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
